@@ -29,6 +29,7 @@ The project focuses on creating a user-friendly interface where users can discov
 - MySQL
 - Bootstrap
 
----
+- ## 👩‍💻 Developed By
+**Dhruvi Jethwa**
 
-## 📂 Project Structure
+
