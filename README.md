@@ -30,11 +30,6 @@ The project focuses on creating a user-friendly interface where users can discov
 - Bootstrap
 
 ## 🔗 Live Demo
-**Website:** http://atlastour.byethost13.com/Atlast/
-
-**user email:** dhruvijethwa6@gmail.com
-
-**password:** 123
 
 
 **Admin Panel:** https://atlastour.byethost13.com/Atlast/admin/login.php
